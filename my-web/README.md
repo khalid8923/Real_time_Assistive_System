@@ -2,6 +2,8 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Getting Started
 
+Copy `.env.example` to `.env.local` (note the leading dot — Next.js only loads dotfiles) and fill in `GEMINI_API_KEY` and `GROQ_API_KEY`.
+
 First, run the development server:
 
 ```bash
